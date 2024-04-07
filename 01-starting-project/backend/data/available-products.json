@@ -1,0 +1,178 @@
+[
+  {
+    "id": "p1",
+    "name": "Canon Prima ZoomShot 60",
+    "price": "5000",
+    "description": "Aparat me film 35mm",
+    "image": "images/Canon-Prima-ZoomShot.jpeg"
+  },
+  {
+    "id": "p2",
+    "name": "Devil's World",
+    "price": "2000",
+    "description": "Loje per Nintendo Famicom 'Devil's World'",
+    "image": "images/famicom-Devil's-World.jpeg"
+  },
+  {
+    "id": "p3",
+    "name": "Donkey Kong Jr.",
+    "price": "1500",
+    "description": "Loje per Nintendo Famicom 'Donkey Kong Jr.'",
+    "image": "images/famicom-Donkey-KongJr.jpeg"
+  },
+  {
+    "id": "p4",
+    "name": "Kunio Kun Soccer (Goal3)",
+    "price": "3000",
+    "description": "Loje per Nintendo Famicom 'Kunio Kun Soccer'",
+    "image": "images/famicom-Kunio-Kun-Soccer.jpeg"
+  },
+  {
+    "id": "p5",
+    "name": "Super Mario Bros 3",
+    "price": "2000",
+    "description": "Loje per Nintendo Famicom 'Super Mario Bros 3'",
+    "image": "images/famicom-Super-Mario-Bros-3.jpeg"
+  },
+  {
+    "id": "p6",
+    "name": "Super Mario Bros",
+    "price": "2000",
+    "description": "Loje per Nintendo Famicom 'Super Mario Bros'",
+    "image": "images/famicom-Super-Mario-Bros.jpeg"
+  },
+  {
+    "id": "p7",
+    "name": "Yoshi's Egg",
+    "price": "1500",
+    "description": "Loje per Nintendo Famicom 'Yoshi's Egg'",
+    "image": "images/famicom-Yoshi's-Egg.jpeg"
+  },
+  {
+    "id": "p8",
+    "name": "Lojra per Game Boy Advance",
+    "price": "5000",
+    "description": "Lojra per Nintendo Game Boy Advance",
+    "image": "images/GBA-Lojra.jpeg"
+  },
+  {
+    "id": "p9",
+    "name": "Game Boy Advance AGS-101",
+    "price": "15000",
+    "description": "Nintendo Game Boy Advance AGS-101",
+    "image": "images/GBA.jpeg"
+  },
+  {
+    "id": "p10",
+    "name": "Kindle PaperWhite Gen 10",
+    "price": "10000",
+    "description": "Kindle PaperWhite Gjenerata e 10",
+    "image": "images/Kindle-PaperWhite-Gen10.jpeg"
+  },
+  {
+    "id": "p11",
+    "name": "Kodak Cameo 35mm",
+    "price": "2000",
+    "description": "Aparat me film 35mm Kodak Cameo",
+    "image": "images/Kodak-Cameo-35mm.jpeg"
+  },
+  {
+    "id": "p12",
+    "name": "Kodak Euro 35mm",
+    "price": "1000",
+    "description": "Aparat me film 355 Kodak Euro 35mm",
+    "image": "images/Kodak-Euro-35mm.jpeg"
+  },
+  {
+    "id": "p13",
+    "name": "Kodak kb28 35mm",
+    "price": "3500",
+    "description": "Aparat me film 35mm 'Kodak kb28'",
+    "image": "images/Kodak-kb28-35mm.jpeg"
+  },
+  {
+    "id": "p14",
+    "name": "Lapsa per Nintendo ds",
+    "price": "500",
+    "description": "Lapsa me ngjyra te ndryshme per Nintendo ds",
+    "image": "images/Lapsa-Nintendo-DS.jpeg",
+    "moreThanOne": true
+  },
+  {
+    "id": "p15",
+    "name": "Metroid Dread",
+    "price": "5000",
+    "description": "Loje per Nintendo Switch 'Metroid Dread'",
+    "image": "images/Metroid-Dread.jpeg"
+  },
+  {
+    "id": "p16",
+    "name": "Minolta Riva Zoom70 35mm",
+    "price": "6000",
+    "description": "Aparat me film 35mm 'Minolta Riva'",
+    "image": "images/Minolta-Riva-Zoom70.jpeg"
+  },
+  {
+    "id": "p17",
+    "name": "Lojra per Nintendo DS",
+    "price": "3000",
+    "description": "New Super Mario Bros + Dinosaur King",
+    "image": "images/Nintendo-DS-Lojra.jpeg"
+  },
+  {
+    "id": "p18",
+    "name": "Nintendo Switch Lite",
+    "price": "17000",
+    "description": "Nintendo Switch Lite i ri ne Kuti",
+    "image": "images/Nintendo-Switch-Lite.jpeg"
+  },
+  {
+    "id": "p19",
+    "name": "Pentax Zoom60 35mm",
+    "price": "5000",
+    "description": "Aparat me film 355 'Pentax Zoom60'",
+    "image": "images/Pentax-Zoom60-35mm.jpeg"
+  },
+  {
+    "id": "p20",
+    "name": "PlayStation Classic(Mini)",
+    "price": "15000",
+    "description": "PlayStation Classic i hakuar me mbi 100Lojra ps1 + emulatore te ndyshem",
+    "image": "images/PlayStation-Classic.jpeg"
+  },
+  {
+    "id": "p21",
+    "name": "Polaroid Easy",
+    "price": "4000",
+    "description": "Aparat me film Polaroid",
+    "image": "images/Polaroid-Easy.jpeg"
+  },
+  {
+    "id": "p22",
+    "name": "Polaroid Spice Cam",
+    "price": "8000",
+    "description": "Aparat me film Polaroid (Limited Edition)",
+    "image": "images/Polaroid-SpiceCam.jpeg"
+  },
+  {
+    "id": "p23",
+    "name": "Premier Pc460 35mm",
+    "price": "2000",
+    "description": "Aparat me film 35mm 'Premier Pc460'",
+    "image": "images/Premier-Pc460-35mm.jpeg"
+  },
+  {
+    "id": "p24",
+    "name": "Super Mario Wolrd (SNES)",
+    "price": "3000",
+    "description": "Loje per Super Nintendo 'Super Mario World'",
+    "image": "images/Super-Mario-World.jpeg"
+  },
+  {
+    "id": "p25",
+    "name": "Wizzen NovaCam 35mm",
+    "price": "8000",
+    "description": "Aparat me film 35mm 'Wizzen NovaCam'",
+    "image": "images/Wizzen-NovaCam-35mm.jpeg"
+  }
+]
