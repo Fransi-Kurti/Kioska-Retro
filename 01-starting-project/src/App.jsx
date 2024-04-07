@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Products from "./components/Products";
 import { CartContextProvider } from "./store/CartContext";
 import { UserProgressContextProvider } from "./store/UserProgressContext";
+import Footer from "./components/Footer";
 
 
 
@@ -13,6 +14,7 @@ function App() {
     <CartContextProvider>
       <Header />
       <Products />
+      <Footer />
       <Cart />
       <Checkout />
     </CartContextProvider>

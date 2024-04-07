@@ -69,15 +69,13 @@ body {
 }
 
 .error {
-  
-    width: 90%;
-    max-width: 25rem;
-    margin: 2rem auto;
-    padding: 1rem;
-    background-color: red;
-    color: white;
-    border-radius: 6px;
-  
+  width: 90%;
+  max-width: 25rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  background-color: red;
+  color: white;
+  border-radius: 6px;
 }
 
 #products {
@@ -279,6 +277,45 @@ body {
 
 .modal::backdrop {
   background-color: rgba(0, 0, 0, 0.55);
+}
+
+footer {
+  background-color: #f0eecd;
+  padding: 20px 0;
+  text-align: center;
+  border-top: 1px solid #d94b25;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.7);
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+  color: #3f3121;
+  padding-left: 10px;
+
+}
+
+.phone-number-container,
+.adress-container {
+  text-align: left;
+  margin-right: 30px;
+}
+
+
+.copyright-container p {
+  padding: 1rem;
+  color: #f0eecd;
+  background-color:#3f3121;
+
+  font-family: "Public Pixel", sans-serif;
+}
+
+@media screen and (max-width: 420px) {
+  .footer-container{
+    flex-direction: column;
+    justify-content: center;
+  }
 }
 
 @media screen and (max-width: 770px) {
